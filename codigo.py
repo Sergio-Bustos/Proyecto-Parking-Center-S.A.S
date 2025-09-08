@@ -34,7 +34,7 @@ opc = 0
 # 3. Bucle principal del sistema
 
 while opc != 5:  
-    # Este bucle se ejecuta mientras el usuario NO seleccione la opción 5 (Salir) si presiona el 5 el bucle se repitira
+    # Este bucle se ejecuta mientras el usuario NO seleccione la opción 5 (Salir) si presiona el 5 el bucle se terminará
     
     print("----------Parking Center S.A.S.----------")
     # Imprime el encabezado del sistema
@@ -205,6 +205,7 @@ Tipos de vehículos:
 
     elif opc == 5:
         print("Saliendo del sistema...")
+        break
      # Rompemos el bucle principal y terminamos el programa
 
     # Opción inválida
