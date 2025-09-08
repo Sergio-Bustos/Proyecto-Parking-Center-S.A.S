@@ -205,7 +205,6 @@ Tipos de vehículos:
 
     elif opc == 5:
         print("Saliendo del sistema...")
-        break
      # Rompemos el bucle principal y terminamos el programa
 
     # Opción inválida
