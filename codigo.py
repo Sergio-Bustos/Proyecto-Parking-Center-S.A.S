@@ -199,12 +199,14 @@ Tipos de vehículos:
             # Sumamos el valor pagado (índice 4 de cada tupla que es valor que lo hicimos y agregamos a cada tupla en la opcion 4)
             j += 1  # Incrementamos j para pasar al siguiente elemento osea vehiculo
         print(f"\nTotal recaudado: ${total}\n")  # Mostramos el total acumulado
+        print(f"Dia; Hoy") # Solo sirve para dias de hoy
 
 
     # OPCIÓN 5 - Salir del sistema
 
     elif opc == 5:
         print("Saliendo del sistema...")
+        print("Has salido del sistema")
      # Rompemos el bucle principal y terminamos el programa
 
     # Opción inválida
