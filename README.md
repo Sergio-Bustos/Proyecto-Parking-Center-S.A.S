@@ -1,4 +1,4 @@
-🅿️ Sistema de Control de Parqueadero
+🚘🛵🚒 Sistema de Control de Parqueadero;
 
 Este proyecto consiste en un sistema básico de gestión de parqueadero, diseñado como simulador de capacitación para nuevos empleados. Permite registrar el ingreso y salida de vehículos, calcular su tiempo de estadía y determinar el costo del servicio según el tipo de vehículo.
 
