@@ -22,4 +22,4 @@ Han generado ingresos acumulados al sistema; Osea que se han salido del parquead
 
 🎯 Objetivo
 
-El sistema busca simular el funcionamiento de un parqueadero real, sirviendo como herramienta de aprendizaje para nuevos empleados y como base para proyectos de software de gestión,simulando un entorno cliente - desarrolladores.
+El sistema busca simular el funcionamiento de un parqueadero real, sirviendo como herramienta de aprendizaje para nuevos empleados y como base para proyectos de software de gestión,simulando un entorno cliente - desarrolladores,atravez tambien de investigaciones y consultas para nuestra formacion y aprendizaje en Python...
